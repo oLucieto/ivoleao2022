@@ -7,8 +7,6 @@ body {
     width: 50%;
     margin-right: 25%;
     margin-left: 25%;
-
-
 }
 
 .principal{
@@ -53,5 +51,7 @@ ul {
 
 .imagembeneficios{
       width: 50%;
+      align-content: center;
+
 }
 
