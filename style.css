@@ -14,8 +14,8 @@ body {
     padding: 30px;
 }
 
-.titulo-centralizado {
-   text-align: center;
+h1 {
+    text-align: center;
 }
 
 p {
