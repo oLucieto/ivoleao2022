@@ -4,6 +4,10 @@ body {
 
 #italia {
     width: 60%;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 
 }
 
