@@ -15,7 +15,7 @@ body {
 }
 
 .titulo-centralizado {
-    text-align: center
+    text-align-last: center;
 }
 
 p {
@@ -51,6 +51,6 @@ ul {
 
 .imagembeneficios{
       width: 50%;
-      
+
 }
 
