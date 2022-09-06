@@ -10,12 +10,14 @@ body {
 }
 
 .principal{
-    background: #d69ac2
+    background: #d69ac2;
     padding: 30px;
 }
 
 h1 {
-    text-align: center;
+    background: #d69ac2;
+    padding: 30px;
+}
 }
 
 p {
