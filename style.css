@@ -8,8 +8,7 @@ body {
     width: 50%;
     margin-right: 25%;
     margin-left: 25%;
-    background: #838282;
-    padding: 30px
+   
 }
 
 .principal{
@@ -18,8 +17,7 @@ body {
 }
 
 h1 {
-    background: #838282;
-    padding: 30px;
+   text-align: center;
 }
 }
 
