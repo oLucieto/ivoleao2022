@@ -1,9 +1,15 @@
 header {
 background: #BBBBBB;
 }
+.caixa {
+    width: 940px;
+
+}
+
+
 nav {
     position: absolute;
-    top: 0;
+    top: 110;
     right: 0;
 }
 
