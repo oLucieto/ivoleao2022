@@ -1,6 +1,11 @@
 header {
 background: #BBBBBB;
 }
+nav {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
 
 nav li {
     display: inline;
