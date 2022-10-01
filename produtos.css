@@ -37,5 +37,6 @@ nav a{
 .produtos li {
     display: inline-block;
     text-align: center;
-
+    width: 30%;
+    
 }
