@@ -59,24 +59,15 @@ h5 a:hover {
 }
 
 .produtos li {
-   
-    width: 30%;
-    margin: 0 1.5%;
-    padding: 31px 20px;
-    box-sizing: border-box;
-    border: 2px solid #000000;
-    border-radius: 10px;
-}
+    display: inline-block;
+    text-align: center;
+  
 
 .produtos h2 {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: bold; 
-    display: inline-block;
-    vertical-align: top;
-    width: 20%;
-    margin-right: 15%;
+
 }
-    
 
 .produtos-preco {
     font-size: 22px;
