@@ -37,10 +37,8 @@ nav a{
 }
 
 nav a:hover {
-    margin: 0;
-    padding: 0;
-    border: 0;
-    vertical-align: baseline;
+    text-decoration: underline;
+    
 }
 
 h3 a:hover{
