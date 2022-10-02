@@ -71,10 +71,14 @@ h5 a:hover {
 }
 
 .produtos h2 {
-    font-size: 40px;
+    font-size: 20px;
     font-weight: bold; 
-
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
 }
+    
 
 .produtos-preco {
     font-size: 22px;
