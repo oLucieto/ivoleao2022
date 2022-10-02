@@ -31,16 +31,24 @@ nav a{
 }
 
 nav a:hover {
-    color: #000000;
-    color: #FFFFFF;
-    color: #b6110c;
     text-decoration: underline;
 }
-h3 a:hover {
-    color: #FFFFFF;
 
+h3 a:hover{
+    color: #ffffff;
+
+}
+
+h4 a:hover {
+    color: #073b02;
+   
  }
-       
+ 
+h5 a:hover {
+    color: #ff0000;
+
+}
+
 
 .produtos {
     width: 940px;
