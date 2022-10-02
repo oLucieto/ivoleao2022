@@ -47,6 +47,7 @@ nav a{
     border-color: #000000;
     border-width: 2px;
     border-style: solid;
+    border: 2px solid #000000;
 }
 
 .produtos h2 {
