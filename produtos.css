@@ -1,6 +1,11 @@
 header {
-   background: #be7474;
-   padding: 0 auto 0;
+   background: #BBBBBB;
+   padding: 20px 0;
+}
+
+body {
+    background: #838282;
+   
 }
 
 .caixa {
