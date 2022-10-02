@@ -36,6 +36,11 @@ nav a:hover {
     color: #b6110c;
     text-decoration: underline;
 }
+ ul li a:hover {
+    color: #FFFFFF;
+
+ }
+       
 
 .produtos {
     width: 940px;
