@@ -77,16 +77,16 @@ h5 a:hover {
 
 produtos h6 a:hover {
    border-color: #0f4202;
-
+   text-decoration: underline;
 }
 
 h7 a:hover {
    border-color: #ffffff;
-
+   text-decoration: underline;
 }
 h8 a:hover {
     color: #ff0000;
-
+    text-decoration: underline;
 }
 
 .produtos h6 {
