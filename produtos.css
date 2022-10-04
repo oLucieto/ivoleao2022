@@ -105,14 +105,14 @@ h5 a:hover {
 
 
 .produtos li:hover {
-    border-color: #C78C19;
+    border-color: #0f4202;
 }
 .produtos li:hover {
-    border-color: #C78C19;
+    border-color: #ffffff;
 }
 
 .produtos li:active {
-    border-color: #088C19;    
+    border-color: #ff0000;    
 }
 
 .produtos li:hover h2 {
