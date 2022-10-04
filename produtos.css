@@ -89,7 +89,19 @@ h8 a:hover {
 
 }
 
-.produtos h2 {
+.produtos h6 {
+    font-size: 30px;
+    font-weight: bold; 
+
+}
+
+.produtos h7 {
+    font-size: 30px;
+    font-weight: bold; 
+
+}
+
+.produtos h8 {
     font-size: 30px;
     font-weight: bold; 
 
