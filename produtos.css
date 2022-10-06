@@ -103,11 +103,9 @@ h5 a:hover {
     font-size: 18px;
 }
 
-.01 li:hover {
-    border-color: #fa0594;
+.produtos li:hover {
+	border-color: #C78C19;
 }
-
-
 
 .produtos li:active {
 	border-color: #088C19;	
@@ -132,4 +130,9 @@ footer {
 	color: #FFFFFF;
 	font-size: 13px;
 	margin: 20px 0 0;
+}
+
+h8 {
+    text-align: center;
+    color: #088C19;
 }
