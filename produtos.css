@@ -102,6 +102,11 @@ h5 a:hover {
 .produtos-descricao {
     font-size: 18px;
 }
+
+.01 li:hover {
+    border-color: #fa0594;
+}
+
 .produtos li:hover {
 	border-color: #C78C19;
 }
