@@ -107,8 +107,9 @@ h5 a:hover {
 	border-color: #C78C19;
 }
 
-.produtos li:active {
+.produtos h8 li:active {
 	border-color: #088C19;	
+
 }
 
 .produtos li:hover h2 {
