@@ -123,18 +123,18 @@ nav a:hover {
 }
 
 h6 a:hover{
-    color: #0f4202;
+    border-color: #0f4202;
 
 }
 
 h7 a:hover {
-    color: #ffffff;
+    border-color: #ffffff;
    
  }
  
 h8 a:hover {
-    color: #ff0000;
-
+    border-color: #8c0808;	
+            
 }
 
 
