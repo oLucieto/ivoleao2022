@@ -1,5 +1,5 @@
 body {
-    background: #ff0000;
+    background: #e09292;
    
 }
 
@@ -44,7 +44,7 @@ nav a:hover {
 }
 
 .principal{
-    background: #838282;
+    background: #e09292;
     padding: 30px;
 }
 
@@ -69,7 +69,7 @@ strong {
 }
 
 .benefícios{
-    background: #838282;
+    background: #e09292;
     padding: 20px;
 }
 
