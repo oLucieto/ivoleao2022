@@ -117,21 +117,6 @@ footer {
 	margin: 20px 0 0;
 }
 
-h6 a:hover{
-    border-color: #0f4202;
-
-}
-
-h7 a:hover {
-    border-color: #ffffff;
-   
- }
- 
-h8 a:hover {
-    border-color: #8c0808;	
-            
-}
-
 .produtos li:active {
     border-color: #088C19;	
         
