@@ -1,11 +1,11 @@
 header {
-	background: #e09292;
+	background: #838282;
 	padding: 20px 0;
 
  } 
 
 body {
-    background: #e09292;
+    background: #838282;
    
 }
 
@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 h3 a:hover{
-    color: #e09292;
+    color: #0f4202;
 
 }
 
@@ -103,23 +103,7 @@ h5 a:hover {
     font-size: 18px;
 }
 
-.produtos li:hover {
-	border-color: #C78C19;
-}
 
-.produtos li:active {
-    border-color: #088C19;	
-        
-}
-
-.produtos li:hover h2 {
-	font-size: 34px;
-}
-
-.produtos h2 {
-	font-size: 30px;
-	font-weight: bold;
-}
 
 footer {
 	text-align: center;
@@ -133,17 +117,24 @@ footer {
 	margin: 20px 0 0;
 }
 
-h8 {
-    text-align: center;
-    color: #088C19;
+nav a:hover {
+    text-decoration: underline;
+    
 }
 
-h7 {
-    text-align: center;
-    color: #FFFfff;
+h6 a:hover{
+    color: #0f4202;
+
 }
 
-h6 {
-    text-align: center;
+h7 a:hover {
+    color: #ffffff;
+   
+ }
+ 
+h8 a:hover {
     color: #ff0000;
+
 }
+
+
