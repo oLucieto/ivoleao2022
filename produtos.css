@@ -117,11 +117,6 @@ footer {
 	margin: 20px 0 0;
 }
 
-nav a:hover {
-    text-decoration: underline;
-    
-}
-
 h6 a:hover{
     border-color: #0f4202;
 
@@ -137,4 +132,7 @@ h8 a:hover {
             
 }
 
-
+.produtos li:active {
+    border-color: #088C19;	
+        
+}
