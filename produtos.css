@@ -117,22 +117,21 @@ footer {
 	margin: 20px 0 0;
 }
 
-a:hover {
+.produtos :hover {
     text-decoration: underline;
     
 }
-
-h6 a:hover{
+.produtos01 :hover{
     color: #0f4202;
 
 }
 
-h7 a:hover {
+.produtos02 :hover {
     color: #ffffff;
    
  }
  
-h8 a:hover {
+.produtos03 :hover {
     color: #ff0000;
 
 }
