@@ -1,11 +1,11 @@
 header {
-	background: #838282;
+	background: #e09292;
 	padding: 20px 0;
 
  } 
 
 body {
-    background: #838282;
+    background: #e09292;
    
 }
 
@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 h3 a:hover{
-    color: #0f4202;
+    color: #e09292;
 
 }
 
@@ -57,14 +57,13 @@ h5 a:hover {
 }
 
 
-.produtostudo {
+.produtos {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
 
-
-.produtostudos li {
+.produtos li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -76,26 +75,51 @@ h5 a:hover {
 	border-radius: 10px;
 }
 
-
-
-
-.produtostudo  {
+.produtos h2 {
     font-size: 30px;
     font-weight: bold; 
 
 }
 
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold; 
 
-.produtos-descricao-preco {
-font-size: 22px;
+}
+
+.produtos h2 {
+    font-size: 30px;
+    font-weight: bold; 
+
+}
+
+.produtos-preco {
+    font-size: 22px;
     font-weight: bold;
     margin: 10px;
 
 }
+.produtos-descricao {
+    font-size: 18px;
+}
 
-    .produtos-descricao-preco {
-     font-size: 18px;
-} 
+.produtos li:hover {
+	border-color: #C78C19;
+}
+
+.produtos li:active {
+    border-color: #088C19;	
+        
+}
+
+.produtos li:hover h2 {
+	font-size: 34px;
+}
+
+.produtos h2 {
+	font-size: 30px;
+	font-weight: bold;
+}
 
 footer {
 	text-align: center;
@@ -109,22 +133,18 @@ footer {
 	margin: 20px 0 0;
 }
 
-.produtos :hover {
-    text-decoration: underline;
-    
-}
-.produtos01 :hover{
-    color: #0f4202;
-
+h8 {
+    text-align: center;
+    color: #088C19;
 }
 
-.produtos02 :hover {
-    color: #ffffff;
-   
- }
- 
-.produtos03 :hover {
+h7 {
+    text-align: center;
+    color: #FFFfff;
+}
+
+h6 {
+    text-align: center;
     color: #ff0000;
-
 }
 
