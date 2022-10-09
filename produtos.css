@@ -133,18 +133,21 @@ footer {
 	margin: 20px 0 0;
 }
 
-h8 {
-    text-align: center;
-    color: #088C19;
+.produtos :hover {
+    text-decoration: underline;
+    
+}
+.produtos01 :hover{
+    color: #0f4202;
+
 }
 
-h7 {
-    text-align: center;
-    color: #FFFfff;
-}
-
-h6 {
-    text-align: center;
+.produtos02 :hover {
+    color: #ffffff;
+   
+ }
+ 
+.produtos03 :hover {
     color: #ff0000;
-}
 
+}
