@@ -93,17 +93,34 @@ h5 a:hover {
 
 }
 
-.produtos-preco {
+.produtos-preco01 {
     font-size: 22px;
     font-weight: bold;
     margin: 10px;
 
 }
-.produtos-descricao {
+.produtos-descricao01 {
+    font-size: 18px;
+} 
+.produtos-preco02 {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px;
+
+}
+.produtos-descricao02 {
     font-size: 18px;
 }
 
+.produtos-preco03 {
+    font-size: 22px;
+    font-weight: bold;
+    margin: 10px;
 
+}
+.produtos-descricao03 {
+    font-size: 18px;
+}
 
 footer {
 	text-align: center;
