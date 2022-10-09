@@ -103,14 +103,32 @@ h5 a:hover {
     font-size: 18px;
 }
 
-.produtos li:hover {
+.produtos01 :hover {
 	border-color: #C78C19;
 }
 
-.produtos li:active {
+.produtos01 :active {
     border-color: #088C19;	
         
 }
+
+.produtos02 :hover {
+	border-color: #ff000d;
+}
+
+.produtos02 :active {
+    border-color: #00ff22;	
+        
+}
+.produtos03 :hover {
+	border-color: #4400ff;
+}
+
+.produtos03 :active {
+    border-color: #ff1998;	
+        
+}
+
 
 .produtos li:hover h2 {
 	font-size: 34px;
