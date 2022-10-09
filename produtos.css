@@ -64,7 +64,7 @@ h5 a:hover {
 }
 
 .produtos h9  {
-   
+    display: inline-block;
     text-align: center;
     width: 30%;
 	vertical-align: top;
@@ -76,6 +76,7 @@ h5 a:hover {
 }
 
 .produtos h10 {
+    display: inline-block;
     text-align: center;
     width: 30%;
 	vertical-align: top;
@@ -87,7 +88,7 @@ h5 a:hover {
 }
 
 .produtos h11 {
-    
+    display: inline-block;
     text-align: center;
     width: 30%;
 	vertical-align: top;
@@ -100,19 +101,17 @@ h5 a:hover {
 
 .produtos h9 {
     font-size: 30px;
-    font-weight: bold; 
+    
 
 }
 
 .produtos h10 {
     font-size: 30px;
-    font-weight: bold; 
 
 }
 
 .produtos h11 {
     font-size: 30px;
-    font-weight: bold; 
 
 }
 
