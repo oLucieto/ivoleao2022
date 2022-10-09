@@ -57,24 +57,13 @@ h5 a:hover {
 }
 
 
-.produtos01 {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-.produtos02 {
+.produtos {
     width: 940px;
     margin: 0 auto;
     padding: 50px 0;
 }
 
-.produtos03 {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
-
-.produtos01 {
+.produtos li {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -86,44 +75,19 @@ h5 a:hover {
 	border-radius: 10px;
 }
 
-
-.produtos02 {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-	vertical-align: top;
-	margin: 0 1.5%;
-	padding: 30px 20px;
-	box-sizing: border-box;
-	border: 2px solid #000000;
-	border-radius: 10px;
-}
-
-.produtos03 {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-	vertical-align: top;
-	margin: 0 1.5%;
-	padding: 30px 20px;
-	box-sizing: border-box;
-	border: 2px solid #000000;
-	border-radius: 10px;
-}
-
-.produtos01 {
+.produtos h2 {
     font-size: 30px;
     font-weight: bold; 
 
 }
 
-.produtos02 {
+.produtos h2 {
     font-size: 30px;
     font-weight: bold; 
 
 }
 
-.produtos03 {
+.produtos h2 {
     font-size: 30px;
     font-weight: bold; 
 
@@ -139,32 +103,14 @@ h5 a:hover {
     font-size: 18px;
 }
 
-.produtos01 :hover {
+.produtos li:hover {
 	border-color: #C78C19;
 }
 
-.produtos01 :active {
+.produtos li:active {
     border-color: #088C19;	
         
 }
-
-.produtos02 :hover {
-	border-color: #ff000d;
-}
-
-.produtos02 :active {
-    border-color: #00ff22;	
-        
-}
-.produtos03 :hover {
-	border-color: #4400ff;
-}
-
-.produtos03 :active {
-    border-color: #ff1998;	
-        
-}
-
 
 .produtos li:hover h2 {
 	font-size: 34px;
@@ -205,3 +151,4 @@ footer {
     color: #ff0000;
 
 }
+
