@@ -63,7 +63,7 @@ h5 a:hover {
     padding: 50px 0;
 }
 
-.produtos h9 h10 h11 {
+.produtos h9  {
     display: inline-block;
     text-align: center;
     width: 30%;
@@ -75,19 +75,43 @@ h5 a:hover {
 	border-radius: 10px;
 }
 
-.produtos h2 {
+.produtos h10 {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.produtos h11 {
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.produtos h9 {
     font-size: 30px;
     font-weight: bold; 
 
 }
 
-.produtos h2 {
+.produtos h10 {
     font-size: 30px;
     font-weight: bold; 
 
 }
 
-.produtos h2 {
+.produtos h11 {
     font-size: 30px;
     font-weight: bold; 
 
