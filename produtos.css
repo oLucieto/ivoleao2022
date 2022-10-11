@@ -41,6 +41,8 @@ nav a:hover {
     
 }
 
+/* troca de cor dos produtos */
+
 h3 a:hover{
     color: #03741f;
 
@@ -64,12 +66,7 @@ h5 a:hover {
 }
 
 .produtos h9  {
-    display: inline-block;
-    text-align: center;
-    width: 30%;
-	vertical-align: top;
-	margin: 0 1.5%;
-	padding: 30px 20px;
+    display: inline-block;/* troca de cor dos produtos*/
 	box-sizing: border-box;
 	border: 2px solid #000000;
 	border-radius: 10px;
@@ -101,16 +98,9 @@ h5 a:hover {
 
 .produtos h9 {
     font-size: 30px;
-    
-
 }
 
 .produtos h10 {
-    font-size: 30px;
-
-}
-
-.produtos h11 {
     font-size: 30px;
 
 }
@@ -167,3 +157,10 @@ footer {
 
 }
 
+/* continução */
+
+
+footer {
+   text-align: center;
+   background: #FFFFFF;
+}
