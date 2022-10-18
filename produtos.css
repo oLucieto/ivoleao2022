@@ -16,6 +16,12 @@ body {
 
 }
 
+.logo {
+    width: 350px;
+    height: 250px;
+
+}
+
 nav {
     position: absolute;
     top: 110;
