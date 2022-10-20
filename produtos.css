@@ -19,7 +19,7 @@ body {
 .logo {
     width: 350px;
     height: 250px;
-
+    text-align: left;
 }
 
 nav {
