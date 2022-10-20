@@ -56,12 +56,12 @@ nav a:hover {
 
 }
 
-h4 a:hover {
+.produtos a:hover {
     color: #ffffff;
    
  }
  
-h5 a:hover {
+.contato a:hover {
     color: #ff0000;
 
 }
