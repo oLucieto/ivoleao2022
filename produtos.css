@@ -15,12 +15,12 @@ body {
     margin: 0 auto;
 
 }
-
 .logo {
-    margin: 25%;
-    left: 20%;
-    right: 150%;
-   
+    width: 30%;
+    margin-right: 25%;
+    margin-left: 25%;
+    text-align: left;
+
 }
 
 nav {
