@@ -20,6 +20,7 @@ body {
     margin: 25%;
     left: 20%;
     right: 150%;
+    block-size: 25%;
 }
 
 nav {
