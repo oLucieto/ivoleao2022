@@ -17,11 +17,10 @@ body {
 }
 
 .logo {
+    position: relative;
+    width: 940px;
+    margin: 25%;
     
-    width: 150px;
-    margin-right: 750px;
-    margin-left: 250px;
-    text-align: left;
 }
 
 nav {
@@ -53,20 +52,17 @@ nav a:hover {
 
 .home a:hover{
     color: #03741f;
-    display: inline;
-    margin: 0 15px;
+
 }
 
 .produtos a:hover {
     color: #ffffff;
-    display: inline;
-    margin: 0 15px;
+   
  }
  
 .contato a:hover {
     color: #ff0000;
-    display: inline;
-    margin: 0 15px;
+
 }
 
 
