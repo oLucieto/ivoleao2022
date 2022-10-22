@@ -17,10 +17,9 @@ body {
 }
 
 .logo {
-    
-    width: 40px;
-    margin: 25%;
-    
+    margin: 50%;
+    left: 150%;
+    right: 50%;
 }
 
 nav {
