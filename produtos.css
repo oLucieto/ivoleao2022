@@ -161,3 +161,9 @@ footer {
 .logorodape {
     width: 13%;
 }
+.copyright {
+    color: #000000;
+    font-size: 15px;
+    margin: 15px 0 0;
+}
+
