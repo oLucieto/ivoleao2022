@@ -1,0 +1,16 @@
+header {
+	background: #e09292;
+	padding: 20px 0;
+
+ } 
+
+body {
+    background: #e09292;
+   
+}
+
+.veja1 :hover {
+    color: #03741f;
+    text-decoration: underline;
+
+}
