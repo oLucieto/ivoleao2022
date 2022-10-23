@@ -146,25 +146,6 @@ nav a:hover {
 	margin: 25px 0 0;
 }
 
-.produtos :hover {
-    text-decoration: underline;
-    
-}
-.produtos01 :hover{
-   
-
-}
-
-.produtos02 :hover {
-    color: #ffffff;
-   
- }
- 
-.produtos03 :hover {
-    color: #ff0000;
-
-}
-
 /* continução */
 
 footer {
