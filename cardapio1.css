@@ -9,8 +9,12 @@ body {
    
 }
 
-.veja1 a:hover {
-    color: #03741f;
+nav a:hover {
     text-decoration: underline;
+
+}
+
+.veja1 a:hover{
+    color: #03741f;
 
 }
