@@ -167,13 +167,6 @@ nav a:hover {
 
 /* continução */
 
-
-footer {
-   text-align: center;
-   background: #FFFFFF;
-
-}
-
 footer {
 	text-align: center;
 	background: url("bg.jpg");
@@ -181,7 +174,7 @@ footer {
 }
 
 .logorodape {
-    width: 10%;
+    width: 18%;
 
 
 }
