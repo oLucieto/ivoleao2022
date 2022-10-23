@@ -167,12 +167,6 @@ footer {
     margin: 15px 0 0;
 }
 
-.veja1 a:hover {
-    color: #03741f;
-    text-decoration: underline;
-
-}
-
 nav1 a{
     text-transform: uppercase;
     color: #000000;
@@ -183,7 +177,20 @@ nav1 a{
 }
 
 .veja1 a:hover {
+    color: #03741f;
+    text-decoration: underline;
+
+}
+
+.veja2 a:hover {
     color: #ffffff;
     text-decoration: underline;
 
 }
+
+.veja3 a:hover {
+    color: #ff0000;
+    text-decoration: underline;
+
+}
+
