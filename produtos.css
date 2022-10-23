@@ -110,6 +110,8 @@ nav a:hover {
 	border-radius: 10px;
 }
 
+
+
 .produtos h9 {
     font-size: 30px;
 }
@@ -119,8 +121,13 @@ nav a:hover {
 
 }
 
+.produtos h11 {
+    font-size: 30px;
+
+}
+
 .produtos-preco {
-    font-size: 22px;
+    font-size: 30px;
     margin: 10px;
 
 }
@@ -139,6 +146,7 @@ nav a:hover {
 .produtos h11:hover {
 	border-color: #ff0000;
 }
+/*continuação */ 
 
 .copyright {
 	color: #FFFFFF;
@@ -146,7 +154,7 @@ nav a:hover {
 	margin: 25px 0 0;
 }
 
-/* continução */
+
 
 footer {
 	text-align: center;
