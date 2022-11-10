@@ -1,29 +1,61 @@
-.navegação {
-    padding: 20px 0;
-}
-
 .caixa {
     position: relative;
-    width: 400px;
+    width: 940px;
     margin: 0 auto;
+
+}
+.logo {
+    width: 20%;
+    margin-right: 70%;
+    margin-left: 10%;
+  
+
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
 }
 
 nav li {
     display: inline;
-    margin: 0 0 0 15px;
+    margin: 5px 5px 5px;
 }
 
-nav a {
+nav a{
     text-transform: uppercase;
-    color: black;
+    color: #000000;
     font-weight: bold;
     font-size: 22px;
-    text-decoration: none;    
- }
+    text-decoration: none;
+
+}
 
 nav a:hover {
-    color: rgb(255, 136, 0);
     text-decoration: underline;
+
+}
+
+.home a:hover{
+    color: #03741f;
+
+}
+
+.produtos a:hover {
+    color: #ffffff;
+   
+ }
+
+.contato a:hover {
+    color: #ff0000;
+
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
 }
 
 /* cardapio1 */
