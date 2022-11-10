@@ -1,3 +1,32 @@
+.navegação {
+    padding: 20px 0;
+}
+
+.caixa {
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;    
+ }
+
+nav a:hover {
+    color: rgb(255, 136, 0);
+    text-decoration: underline;
+}
+
+/* cardapio1 */
 header {
 	background: #d4cdcd;
 	padding: 20px 0;
