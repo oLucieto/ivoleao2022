@@ -250,7 +250,7 @@ nav a:hover {
     padding: 50px 0;
 }
 
-/* cardapio1 */
+/* cardapio1imagem */
 header {
 	background: #d4cdcd;
 	padding: 20px 0;
@@ -265,6 +265,8 @@ body {
 .cardapio1 {
     width: 100%;
 }
+/*final*/
+
 
 /* rodape1 */
 footer {
@@ -282,3 +284,198 @@ footer {
     font-size: 15px;
     margin: 15px 0 0;
 }
+/*final*/
+
+/*cardapio2*/
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+.logo {
+    width: 20%;
+    margin-right: 70%;
+    margin-left: 10%;
+  
+
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 5px 5px 5px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
+nav a:hover {
+    text-decoration: underline;
+
+}
+
+.home a:hover{
+    color: #03741f;
+
+}
+
+.produtos a:hover {
+    color: #ffffff;
+   
+ }
+
+.contato a:hover {
+    color: #ff0000;
+
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+/* cardapio2imagem */
+
+header {
+	background: #d4cdcd;
+	padding: 20px 0;
+
+ } 
+
+body {
+    background: #d4cdcd;
+   
+}
+
+.cardapio2 {
+    width: 100%;
+}
+/*final*/
+
+/* rodape2*/
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+.logorodape {
+    width: 13%;
+}
+
+.copyright {
+    color: #000000;
+    font-size: 15px;
+    margin: 15px 0 0;
+}
+/*final/
+ 
+/*cardapio3*/
+.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+.logo {
+    width: 20%;
+    margin-right: 70%;
+    margin-left: 10%;
+  
+
+}
+
+nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+nav li {
+    display: inline;
+    margin: 5px 5px 5px;
+}
+
+nav a{
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+
+}
+
+nav a:hover {
+    text-decoration: underline;
+
+}
+
+.home a:hover{
+    color: #03741f;
+
+}
+
+.produtos a:hover {
+    color: #ffffff;
+   
+ }
+
+.contato a:hover {
+    color: #ff0000;
+
+}
+
+.produtos {
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+
+/* cardapio3imagem */
+header {
+	background: #d4cdcd;
+	padding: 20px 0;
+
+ } 
+
+body {
+    background: #d4cdcd;
+   
+}
+
+.cardapio3 {
+    width: 100%;
+}
+/*final*/   
+
+/* rodape3 */
+footer {
+	text-align: center;
+	background: url("bg.jpg");
+	padding: 40px 0;
+}
+
+.logorodape {
+    width: 13%;
+}
+
+.copyright {
+    color: #000000;
+    font-size: 15px;
+    margin: 15px 0 0;
+}
+/*final*/
