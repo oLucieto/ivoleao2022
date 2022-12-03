@@ -286,66 +286,7 @@ footer {
 }
 /*final*/
 
-/*cardapio2*/
-.caixa {
-    position: relative;
-    width: 940px;
-    margin: 0 auto;
 
-}
-.logo {
-    width: 20%;
-    margin-right: 70%;
-    margin-left: 10%;
-  
-
-}
-
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
-}
-
-nav li {
-    display: inline;
-    margin: 5px 5px 5px;
-}
-
-nav a{
-    text-transform: uppercase;
-    color: #000000;
-    font-weight: bold;
-    font-size: 22px;
-    text-decoration: none;
-
-}
-
-nav a:hover {
-    text-decoration: underline;
-
-}
-
-.home a:hover{
-    color: #03741f;
-
-}
-
-.produtos a:hover {
-    color: #ffffff;
-   
- }
-
-.contato a:hover {
-    color: #ff0000;
-
-}
-
-.produtos {
-    width: 940px;
-    margin: 0 auto;
-    padding: 50px 0;
-}
 
 /* cardapio2imagem */
 
@@ -364,12 +305,6 @@ body {
     width: 100%;
 }
 /*final*/
-
-/* rodape2*/
-
-/*final/
- 
-
 
 /* cardapio3imagem */
 header {
