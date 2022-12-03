@@ -366,21 +366,7 @@ body {
 /*final*/
 
 /* rodape2*/
-footer {
-	text-align: center;
-	background: url("bg.jpg");
-	padding: 40px 0;
-}
 
-.logorodape {
-    width: 13%;
-}
-
-.copyright {
-    color: #000000;
-    font-size: 15px;
-    margin: 15px 0 0;
-}
 /*final/
  
 /*cardapio3*/
@@ -463,19 +449,5 @@ body {
 /*final*/   
 
 /* rodape3 */
-footer {
-	text-align: center;
-	background: url("bg.jpg");
-	padding: 40px 0;
-}
 
-.logorodape {
-    width: 13%;
-}
-
-.copyright {
-    color: #000000;
-    font-size: 15px;
-    margin: 15px 0 0;
-}
 /*final*/
