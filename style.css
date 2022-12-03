@@ -88,3 +88,17 @@ ul {
 
 }
 
+.home a:hover{
+    color: #03741f;
+
+}
+
+.produtos a:hover {
+    color: #ffffff;
+   
+ }
+ 
+.contato a:hover {
+    color: #ff0000;
+
+}
