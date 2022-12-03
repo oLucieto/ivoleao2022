@@ -271,15 +271,13 @@ body {
 /* rodape1 */
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: url("pg.jpg");
 	padding: 40px 0;
 }
 
 .logorodape {
     width: 13%;
-    margin: 50%;
 }
-
 .copyright {
     color: #000000;
     font-size: 15px;
