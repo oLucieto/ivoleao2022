@@ -432,10 +432,10 @@ td, th {
 	margin: 0 auto;
 }
 
-.mapa p {
-	margin: 0 0 2em;
-	text-align: center;
-}
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient( rgb(219, 13, 13), rgb(0, 0, 0));
+      }
 
 .beneficios {
 	padding: 3em 0;
@@ -497,13 +497,6 @@ td, th {
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
     }
-    #italia {
-    
-        width: 50%;
-        margin-right: 25%;
-        margin-left: 25%;
-        text-align: center;
-       
-    }
+   
 
 }
