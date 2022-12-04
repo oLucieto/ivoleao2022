@@ -496,4 +496,10 @@ td, th {
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
 	}
+.tudo {
+    background: linear-gradient(#000000, #00ffff);
+    
+}
+
+
 }
