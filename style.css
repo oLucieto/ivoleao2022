@@ -327,8 +327,7 @@ body {
 
 /*formulário*/
 main {
-	width: 940px;
-	margin: 0 auto;
+	
 }
 
 form {
@@ -385,6 +384,7 @@ td, th {
 	padding: 8px 15px;
 }
 
+
 /* css da página inicial */
 .banner {
 	width:100%;
@@ -424,9 +424,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
-    background: linear-gradient(orange,blue);
-	
-
+	background: linear-gradient(#d4cdcd, #ffffff);
 }
 
 .mapa-conteudo {
@@ -434,14 +432,14 @@ td, th {
 	margin: 0 auto;
 }
 
-.mapa {
-    margin: 0 0 2em;
+.mapa p {
+	margin: 0 0 2em;
 	text-align: center;
 }
 
 .beneficios {
 	padding: 3em 0;
-	background: #888888;
+	background: #d4cdcd;
 }
 
 .conteudo-beneficios {
@@ -498,14 +496,5 @@ td, th {
 
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
-    }
-   
-    #italia {
-    
-        width: 50%;
-        margin-right: 25%;
-        margin-left: 25%;
-        text-align: center;
-       
-    }
+	}
 }
