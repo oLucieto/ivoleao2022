@@ -424,6 +424,7 @@ td, th {
 
 .mapa {
 	padding: 3em 0;
+    background: linear-gradient(orange,blue);
 	
 
 }
