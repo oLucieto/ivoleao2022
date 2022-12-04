@@ -254,11 +254,13 @@ nav a:hover {
 header {
 	background: #d4cdcd;
 	padding: 20px 0;
+    background: linear-gradient(#000000, #00ffff);
 
  } 
 
 body {
     background: #d4cdcd;
+    background: linear-gradient(#000000, #00ffff);
    
 }
 
@@ -495,11 +497,6 @@ td, th {
 
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
-	}
-.tudo {
-    background: linear-gradient(#000000, #00ffff);
-    
-}
-
+    }
 
 }
