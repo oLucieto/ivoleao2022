@@ -424,7 +424,7 @@ td, th {
 
 .mapa {
 	padding: 0em 0;
-	background: linear-gradient(#000000, #00ffff);
+	
 }
 
 .mapa-conteudo {
@@ -498,5 +498,9 @@ td, th {
 		width: 100%;
     }
    
+ .degrade {
+    background: linear-gradient(#000000, #00ffff);
 
+
+ }
 }
