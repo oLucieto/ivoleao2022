@@ -497,5 +497,13 @@ td, th {
 	.lista-beneficios, .imagem-beneficios {
 		width: 100%;
     }
+    #italia {
+    
+        width: 50%;
+        margin-right: 25%;
+        margin-left: 25%;
+        text-align: center;
+       
+    }
 
 }
